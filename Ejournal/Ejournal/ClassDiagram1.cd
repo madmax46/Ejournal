@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ejournal.AboutProg" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kIAAAAgAACAgCAUAAACAAAADAAAAEIAAAAAAAAAAAAA=</HashCode>
+      <FileName>AboutProg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejournal.FormAddNewDate">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAACAACAAAASAAAAAAAAAAAABAAAAAE=</HashCode>
+      <FileName>FormAddNewDate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejournal.DataBaseWork">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAABAAAAAAAAACAAAAAABAAAAAA=</HashCode>
+      <FileName>DataBaseWork.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejournal.FormAddNewTest">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAEEAQACAAAAAGIACAAAAaAEAAAAKAAAEABAAAAAA=</HashCode>
+      <FileName>FormAddNewTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejournal.FormAddNote">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAQCAAAAAAAACAAAACAAAAAAgAACAAAAAAAAA=</HashCode>
+      <FileName>FormAddNote.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejournal.FormAuthorization">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAQAACBUgAAAAACABAAjAAAACAAIAACgBAAAIAA=</HashCode>
+      <FileName>FormAuthorization.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejournal.FormMainEJournal">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>sKwCKX2e2XhIJOJKO5SAhCb7UvBkbcY+l6xATIQMKlE=</HashCode>
+      <FileName>FormMainEJournal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejournal.FormSettings" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="Ejournal.FormSettings.Save" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>FormSettings.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>RRCgUEBAk2EgAJEoMYTACAgKAAAACCIgECAgDgBIYiA=</HashCode>
+      <FileName>FormSettings.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Ejournal.Program" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejournal.Properties.Settings">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAEAAAIIAAAAAABAAACAAAQAABACgA=</HashCode>
+      <FileName>Settings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejournal.DataBase">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAACAAAAAABAAAAAA=</HashCode>
+      <FileName>DataBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Ejournal.UserSettings">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAIAAAAACIAAAAAAAAAAAA=</HashCode>
+      <FileName>FormSettings.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
